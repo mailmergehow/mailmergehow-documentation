@@ -7,9 +7,8 @@ description: How can we help you?
 ## Premium subscription questions
 
 \
-If you have any questions regarding  your subscription, please note that you can manage it directly from your account's subscription page. Please open the extension on Google Sheets and then click on the user logo at the bottom right of the modal.
+If you have any questions regarding your subscription, please note that you can manage it directly from your account's subscription page. Please open the extension on Google Sheets and then click on the user logo at the bottom right of the modal.
 
-## Anything else ?&#x20;
+## Anything else ?
 
-[contact@contact@mailmergehow.com](contact@mailmergehow.com) :wave:
-
+[contact@mailmergehow.com](mailto:contact@mailmergehow.com) :wave:
