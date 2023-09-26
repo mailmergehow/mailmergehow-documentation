@@ -17,8 +17,7 @@
 ## Help
 
 * [FAQ](help/faq.md)
-* [Account & Billing](help/account-and-billing/README.md)
-  * [Shared subscription](help/account-and-billing/shared-subscription.md)
+* [Account & Billing](help/account-and-billing.md)
 
 ***
 

@@ -8,10 +8,6 @@ description: Frequently asked questions about Mail Merge for Gmail account & bil
 
 Just open the add-on and go to your account, using the button at the bottom right of the main screen. From here you can download all your invoices.
 
-### Can I invite a team member to use my subscription ?
-
-Mail Merge for Gmail licensing model is per user, but you can manage multiple subscriptions from a single account. See our documentation about shared subscriptions : [shared-subscription.md](shared-subscription.md "mention")
-
 ### How to cancel my subscription?
 
 You can cancel your subscription anytime. Just open the add-on and go to your account, using the button at the bottom right of the main screen. From here you can manage your subscription.
@@ -26,4 +22,4 @@ It's very likely that your bank declined the payment, you can contact us at [con
 
 ###
 
-### Can I add&#x20;
+### Can I add

@@ -13,7 +13,7 @@ description: Most frequent question asked by our beloved users ❤️
 
 <!---->
 
-* &#x20;**After successful installation, Merge for Gmail is not visible in Google Sheets:** Simply refresh Google Sheets, wait for 10 seconds, and it should appear in the menu !
+* **After successful installation, Merge for Gmail is not visible in Google Sheets:** Simply refresh Google Sheets, wait for 10 seconds, and it should appear in the menu !
 
 </details>
 
@@ -21,6 +21,6 @@ description: Most frequent question asked by our beloved users ❤️
 
 <summary>Account &#x26; Billing</summary>
 
-We have a dedicated page about account management, billing, subscription cancellation and how to get invoices here : [account-and-billing](account-and-billing/ "mention")
+We have a dedicated page about account management, billing, subscription cancellation and how to get invoices here : [account-and-billing.md](account-and-billing.md "mention")
 
 </details>
