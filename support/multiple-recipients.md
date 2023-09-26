@@ -14,15 +14,13 @@ There are multiple ways to add multiple recipients to a single email: either by 
 Vidéo showing how to add multiple recipients with Mail Merge for Gmail
 {% endembed %}
 
-
-
 ### Add multiple recipients, eventually CC and BCC column in your Spreadsheet: <a href="#h.7gjncqo4r69_l" id="h.7gjncqo4r69_l"></a>
 
 To add multiple recipients, simply type emails in your recipient column, separated by commas.
 
 _ex: nathan@company.com, mathias@company.com_
 
-![](../.gitbook/assets/multi.png)
+<figure><img src="../.gitbook/assets/multi1.webp" alt="add recipients separated by commas"><figcaption><p>add recipients separated by commas</p></figcaption></figure>
 
 ### (Optional) Add CC and BCC column in your Spreadsheet : <a href="#h.wes2cpwybyh_l" id="h.wes2cpwybyh_l"></a>
 
@@ -31,7 +29,7 @@ If you want to add **CC** (Carbon Copy) and/or **BCC** (Blind Carbon Copy):
 * You need to create one distinct column for CC and one other for BCC
 * same as recipients, you can add a single email or multiple emails separated by character comma.
 
-<figure><img src="../.gitbook/assets/sheet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/multi2.webp" alt=""><figcaption><p>Locate your column name</p></figcaption></figure>
 
 ### Setup CC & BCC in Mail Merge for Gmail <a href="#h.me3e303zmxgf_l" id="h.me3e303zmxgf_l"></a>
 
@@ -41,7 +39,7 @@ At this step you need to "tell" **Mail Merge for Gmail** that you have columns w
 * Select the right column for "**CC**" and/or "**BCC**".
 * If everything is ok, the preview should now show CC and / or BCC according to your data.
 
-<figure><img src="../.gitbook/assets/add on.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/multi3.webp" alt="Select the CC/BCC. The preview will be updated"><figcaption><p>Select the CC/BCC. The preview will be updated</p></figcaption></figure>
 
 ### Quotas & Multi-recipients: <a href="#h.g3pyytes0e9e_l" id="h.g3pyytes0e9e_l"></a>
 
