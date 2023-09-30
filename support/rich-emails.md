@@ -6,11 +6,11 @@ To add a hyperlink, from the template editor, go to advanced options, click on "
 
 <div>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/insert image step 2.webp" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/insert image step 2.webp" alt=""><figcaption></figcaption></figure>
 
 </div>
 
