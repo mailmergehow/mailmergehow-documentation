@@ -14,7 +14,7 @@ You will also find troubleshooting information about known issues that could hap
 
 Install Mail Merge for Gmail from the [Google Workspace marketplace](https://workspace.google.com/marketplace/app/mail\_merge\_for\_gmail\_how/57033717989) if you haven’t already done so by clicking on the “Install” button.
 
-<figure><img src=".gitbook/assets/mmfgHow.png" alt="Mail Merge for Gmail How Simple on Google Workspace Marketplace"><figcaption><p>Mail Merge for Gmail How Simple on Google Workspace Marketplace</p></figcaption></figure>
+<figure><img src=".gitbook/assets/mmfgHow (1).png" alt="Mail Merge for Gmail How Simple on Google Workspace Marketplace"><figcaption><p>Mail Merge for Gmail How Simple on Google Workspace Marketplace</p></figcaption></figure>
 
 * A pop-up will ask for your authorization to install the add-on, click on Continue
 * Another popup will ask you for some permissions, click on "Allow"
@@ -25,7 +25,7 @@ The next step is to open the add-on and let the magic happen.
 
 ### Launch Mail Merge for Gmail <a href="#h.4p9vsne6s5z4_l" id="h.4p9vsne6s5z4_l"></a>
 
-<figure><img src=".gitbook/assets/spaces_tBoQpQrzJViUHu4Cv5ai_uploads_HkpyNXc3mtBs3aCQLplI_launch mailmerge.webp" alt="Launch Mail Merge for Gmail Add-on from Google Sheets"><figcaption><p>Launch Mail Merge for Gmail Add-on from Google Sheets</p></figcaption></figure>
+<figure><img src=".gitbook/assets/spaces_tBoQpQrzJViUHu4Cv5ai_uploads_HkpyNXc3mtBs3aCQLplI_launch mailmerge (1).webp" alt="Launch Mail Merge for Gmail Add-on from Google Sheets"><figcaption><p>Launch Mail Merge for Gmail Add-on from Google Sheets</p></figcaption></figure>
 
 * Open Google Sheets (if Google Sheets was already opened, refresh the page)
 * Add-ons take around 15s to load after you opened Google Sheets.

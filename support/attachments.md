@@ -15,7 +15,7 @@ There are some limitations to this feature:
 
 Here are the steps to follow :
 
-<figure><img src="../.gitbook/assets/attach1.png" alt="Add an attachment with Mail Merge for Gmail"><figcaption><p>Add an attachment with Mail Merge for Gmail</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/attach1 (1).png" alt="Add an attachment with Mail Merge for Gmail"><figcaption><p>Add an attachment with Mail Merge for Gmail</p></figcaption></figure>
 
 1. If your attachment is not yet in your Google Drive, follow the optional step [described below.](attachments.md#h.rp1fefblxvjo\_l-2)
 2. Expand options with the button "more options" from the add-on, then click on the Google Drive™ icon.
@@ -34,7 +34,7 @@ If not done yet, here is how to add a file to Google Drive :
 
 
 
-<figure><img src="../.gitbook/assets/attach2.webp" alt="In Google drive, click on &#x22;New&#x22; to upload your future attachment file"><figcaption><p>In Google drive, click on "New" to upload your future attachment file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/attach2 (1).webp" alt="In Google drive, click on &#x22;New&#x22; to upload your future attachment file"><figcaption><p>In Google drive, click on "New" to upload your future attachment file</p></figcaption></figure>
 
 ### Attachment issues: <a href="#h.e0w4cxplbpwm_l" id="h.e0w4cxplbpwm_l"></a>
 

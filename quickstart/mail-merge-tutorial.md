@@ -26,16 +26,16 @@ You can add as many columns as you want, and you will be able to retrieve them i
 
 In the template editor, You are now able to retrieve your Spreadsheet data to customize your emails, through what we call **merge tags.**
 
-<figure><img src="../.gitbook/assets/highlight mergetag (1).png" alt="Headers become merge tags"><figcaption><p>Headers become merge tags</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/highlight mergetag (1) (1).png" alt="Headers become merge tags"><figcaption><p>Headers become merge tags</p></figcaption></figure>
 
 Merge tags are simply names of your columns, surrounded with characters \{{ \}}. For instance, if you want to use the "Name" column in your template, bring it with \{{ Name\}}.
 
 You don't have to type merge tags, just use our dropdown menu :
 
-<figure><img src="../.gitbook/assets/use mergetag.png" alt="Merge tags becomes your data"><figcaption><p>Merge tags becomes your data</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/use mergetag (3).png" alt="Merge tags becomes your data"><figcaption><p>Merge tags becomes your data</p></figcaption></figure>
 
 ## Personalize your email subject
 
 To customize your email subject, you can also use Merge tags. For instance, if your Google Sheets contains a column "Name", **you can customize your email subject using merge tag** "\{{Name\}}" as shown below:
 
-<figure><img src="../.gitbook/assets/spaces_tBoQpQrzJViUHu4Cv5ai_uploads_hvASE2iGp4kbzRqvnfgA_subject (1).webp" alt="You can customize the subject with merge tags too"><figcaption><p>You can customize the subject with merge tags too</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_tBoQpQrzJViUHu4Cv5ai_uploads_hvASE2iGp4kbzRqvnfgA_subject (1) (1).webp" alt="You can customize the subject with merge tags too"><figcaption><p>You can customize the subject with merge tags too</p></figcaption></figure>

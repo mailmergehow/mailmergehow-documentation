@@ -22,7 +22,7 @@ You can't directly add a local image to your email, because it has to be accessi
 
 * Go to [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
-<figure><img src="../.gitbook/assets/use mergetag (1).png" alt=""><figcaption><p>Upload a file to Google Drive</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/use mergetag (4).png" alt=""><figcaption><p>Upload a file to Google Drive</p></figcaption></figure>
 
 * Set the permissions to **"Anyone with the link"** / **"Viewer"**. :warning: :warning:Be careful, if you set "Editor", everyone will able to change your image which is probably not something you wish.:warning::warning:
 

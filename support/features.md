@@ -11,7 +11,7 @@ description: Here is the list of our features, and related documentation
 * Schedule campaigns
 * [multiple recipients](multiple-recipients.md)
 * [Unsubscribe link](unsubscribe-link.md)
-* [Rich emails (images, emojis, link, html...)](../import/rich-emails.md)
+* [Rich emails (images, emojis, link, html...)](broken-reference)
 * [Attachments](attachments.md)
 * Customized sender name
 * Customized reply-to address

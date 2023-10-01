@@ -23,5 +23,3 @@
 ***
 
 * [Contact us](contact-us.md)
-* [Import](import/README.md)
-  * [Rich emails](import/rich-emails.md)
